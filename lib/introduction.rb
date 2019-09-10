@@ -1,5 +1,7 @@
 introduction = "Hi, my name is #{name}."
+
 introduction = "Hi my name is #{name} and I am learning to program in #{language}."
+
 introduction_with_language_optional = "Hi my name is #{name} and I am learning to program in #{language}."
 
 
